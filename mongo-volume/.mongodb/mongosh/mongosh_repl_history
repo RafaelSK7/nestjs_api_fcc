@@ -1,0 +1,11 @@
+db.user.insert({ "name":"rafael kiss"})
+use test
+show dbs
+show
+a
+show dbs
+mongosh -u mymongo -p mymongo --authenticationDatabase mymongo-database
+mongosh -u mymongo --authenticationDatabase mymongo-database
+mongo
+mongosh -u mymongo -p mymongo
+show dbs
